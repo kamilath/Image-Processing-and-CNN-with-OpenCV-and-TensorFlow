@@ -16,6 +16,7 @@ This project demonstrates various image processing techniques using **OpenCV** a
    - Cropping, resizing, and blurring images.
    - Creating and manipulating images using NumPy arrays.
    - Inpainting: Adding shapes and text to images.
+   - 
 **2.CNN for Fashion MNIST and MNIST Datasets**:
    - Builds a CNN with three convolutional layers, followed by max-pooling and fully connected layers.
    - Model training, validation, and evaluation using accuracy and loss metrics.

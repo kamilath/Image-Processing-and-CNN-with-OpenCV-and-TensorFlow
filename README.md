@@ -2,6 +2,7 @@
 This project demonstrates various image processing techniques using **OpenCV** and builds a Convolutional Neural Network (CNN) for image classification using the **Fashion MNIST** and **MNIST** datasets. It includes image handling, transformations, and CNN model creation for multi-class classification.
 ## Project Overview
 **1.Image Processing**: Various techniques such as image reading, cropping, resizing, blurring, and manipulation using OpenCV.
+
 **2.CNN for Image Classification**: A Convolutional Neural Network built using TensorFlow/Keras to classify images from the **Fashion MNIST** and **MNIST** datasets.
 ## Technologies Used
 - **Python**: Programming language.

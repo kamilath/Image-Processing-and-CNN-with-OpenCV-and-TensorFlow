@@ -1,8 +1,8 @@
 # Image-Processing-and-CNN-with-OpenCV-and-TensorFlow
 This project demonstrates various image processing techniques using **OpenCV** and builds a Convolutional Neural Network (CNN) for image classification using the **Fashion MNIST** and **MNIST** datasets. It includes image handling, transformations, and CNN model creation for multi-class classification.
 ## Project Overview
-1. **Image Processing**: Various techniques such as image reading, cropping, resizing, blurring, and manipulation using OpenCV.
-2. **CNN for Image Classification**: A Convolutional Neural Network built using TensorFlow/Keras to classify images from the **Fashion MNIST** and **MNIST** datasets.
+**1.Image Processing**: Various techniques such as image reading, cropping, resizing, blurring, and manipulation using OpenCV.
+**2.CNN for Image Classification**: A Convolutional Neural Network built using TensorFlow/Keras to classify images from the **Fashion MNIST** and **MNIST** datasets.
 ## Technologies Used
 - **Python**: Programming language.
 - **OpenCV**: Library for image processing.
@@ -11,12 +11,12 @@ This project demonstrates various image processing techniques using **OpenCV** a
 - **TensorFlow/Keras**: Framework for building the CNN model.
 - **scikit-learn**: Metrics for model evaluation (confusion matrix, classification report).
 ## Key Features
-1. **Image Processing**:
+**1.Image Processing**:
    - Loading and displaying images in colored and grayscale formats.
    - Cropping, resizing, and blurring images.
    - Creating and manipulating images using NumPy arrays.
    - Inpainting: Adding shapes and text to images.
-2. **CNN for Fashion MNIST and MNIST Datasets**:
+**2.CNN for Fashion MNIST and MNIST Datasets**:
    - Builds a CNN with three convolutional layers, followed by max-pooling and fully connected layers.
    - Model training, validation, and evaluation using accuracy and loss metrics.
    - Visualizes model performance with loss and accuracy curves.
